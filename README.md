@@ -2,8 +2,4 @@
 primeiro repositório 
 git e github
 
-essa linha eu adicionei diretamente no site!
-
-adicionei mais uma linha!
-
-Mais outra linha!
+Apaguei 3 linhas e adicionei essa. 
